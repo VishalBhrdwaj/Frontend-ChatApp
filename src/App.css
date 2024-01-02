@@ -28,6 +28,11 @@ background-image:linear-gradient(to bottom,#c084fc,#9333ea);
   /* background-image: linear-gradient(to right,#9333ea,#7e22ce); */
 }
 
+.time{
+  color: rgb(21, 20, 20);
+  font-size: 0.7rem;
+}
+
 /* m-2 rounded-sm p-3 h-auto max-w-[60%] 
 bg-gradient-to-b from-violet-400 to-violet-600 
 text-white */
